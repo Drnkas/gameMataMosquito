@@ -1,9 +1,9 @@
 html {
-    cursor: url(/assets/mata_mosca.png) 30 30, auto;
+    cursor: url(assets/mata_mosca.png) 30 30, auto;
 }
 
 body {
-    background-image: url(/assets/bg.jpg);
+    background-image: url(assets/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -52,4 +52,3 @@ body {
     font-size:20px;
     font-weight: bold;
 }
-

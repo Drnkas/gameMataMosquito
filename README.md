@@ -7,12 +7,14 @@ On the home screen we have the option of three modes: normal, hard and expert
 <p align="center">
 <img src="assets/m1.png"/>
 </p>
+
 ## playing 🎮
 When choosing the mode, the game starts with a countdown of the timer and three lives
 
 <p align="center">
 <img src="assets/m2.png"/>
 </p>
+
 ## Win or Lose 🏆
 When you win or lose you will be notified and can be redirected to the home page
 
